@@ -1,0 +1,68 @@
+Here are 50 Java logic-building questions categorized by topic to rigorously test your syntax and problem-solving skills.
+
+Basics, Operators & Data Types
+
+1. Write a program to print "Hello, World" without using a semicolon.
+2. Swap two numbers without using a third variable.
+3. Convert a temperature from Fahrenheit to Celsius.
+4. Check if a year is a leap year (handle century years correctly).
+5. Calculate the area of a circle taking radius as input (use `Math.PI`).
+
+II. Control Flow (If-Else, Switch)
+
+6. Check if a number is positive, negative, or zero.
+7. Find the largest of three numbers using nested `if-else`.
+8. Create a simple calculator (add, subtract, multiply, divide) using a `switch` case.
+9. Check if a character is a vowel or consonant using `switch`.
+10. Determine the grade of a student based on marks (90+=A, 80+=B, etc.).
+
+III. Loops & Number Logic
+
+11. Write a program to find the factorial of a number.
+12. Generate the first `n` numbers in the Fibonacci series.
+13. Check if a given number is a Prime number.
+14. Reverse a given integer (e.g., input: 1234, output: 4321).
+15. Check if a number is a Palindrome (e.g., 121).
+16. Check if a number is an Armstrong number (e.g., ).
+17. Calculate the sum of digits of a number.
+18. Find the GCD (HCF) and LCM of two numbers.
+19. Print all prime numbers between 1 and 100.
+20. Convert a binary number to decimal and vice-versa.
+21. check for strong number.
+22. count the digits of number.
+
+Arrays (Single & Multi-dimensional)
+
+27. Find the sum and average of elements in an array.
+28. Find the maximum and minimum element in an array.
+29. Find the second largest number in an array.
+30. Reverse an array in place (without creating a new array).
+31. Sort an array using Bubble Sort.
+32. Perform Linear Search to find an element.
+33. Perform Binary Search on a sorted array.
+34. Remove duplicate elements from an array.
+35. Add two 2D matrices.
+36. Transpose a matrix (swap rows and columns).
+37. Rotate an array `k` times to the right.
+
+ String Manipulation
+
+38. Reverse a string (e.g., "Java" -> "avaJ").
+39. Check if a string is a palindrome.
+40. Count the number of vowels and consonants in a string.
+41. Find the frequency of each character in a string.
+42. Check if two strings are Anagrams (e.g., "listen" and "silent").
+43. Reverse the words in a sentence (e.g., "Hello World" -> "World Hello").
+44. Find the first non-repeating character in a string.
+45. Convert a String to an Integer (`atoi` logic) without using `Integer.parseInt`.
+
+ OOP & Collections
+
+46. Create a class `Employee` with encapsulation (private fields, getters/setters).
+47. Demonstrate runtime polymorphism (method overriding) using a `Shape` class.
+48. Find common elements between two `ArrayLists`.
+49. Count the occurrence of words in a text using `HashMap`.
+50. Sort an `ArrayList` of custom objects (e.g., Students) using `Comparable` or `Comparator`.
+
+---
+

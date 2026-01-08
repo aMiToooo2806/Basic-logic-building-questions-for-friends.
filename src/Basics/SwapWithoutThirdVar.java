@@ -1,4 +1,6 @@
-public class Main {
+package Basics;
+
+public class SwapWithoutThirdVar {
     public static void main(String[] args) {
         // swap two numbers without using third variable
         int a = 10;
