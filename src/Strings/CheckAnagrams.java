@@ -1,7 +1,5 @@
 package Strings;
 
-import javax.sound.midi.Soundbank;
-
 public class CheckAnagrams {
     public static void main(String[] args) {
         String s1 = "Listen";
